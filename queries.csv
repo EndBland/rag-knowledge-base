@@ -1,0 +1,11 @@
+query,T/F,similarity,source,ex
+什么是并发？,√,0.7460,course.md,
+操作系统的目标有哪些？,√,0.8205,course.md,
+分时系统有什么特征？,√,0.8865,course.md,最高分
+Python怎么定义变量？,√,0.8174,Python.md,
+Python注释分几类？,√,0.8417,Python.md,
+字符串切片语法是什么？,√,0.7321,Python.md,低分但命中
+break和continue的区别？,√,0.7507,course.md,来源错误但答对
+理财产品的销售文件有哪些？,√,0.7659,product manual.md,
+银行理财产品的定义？,√,0.7407,product manual.md,
+什么是开放式净值型产品？,×,0.7188,course.md,失败

@@ -1,0 +1,11 @@
+# 环境变量（含 API Key，绝对不能上传）
+.env
+
+# 运行产物（可重新生成）
+chunks.json
+faiss.index
+history.json
+
+# Python 缓存
+__pycache__/
+*.pyc
